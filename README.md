@@ -1,4 +1,4 @@
-20#**MAI-DIRE-AI---[CIPHERVAULT ULTIMATE](https://docs.google.com/presentation/d/1evxM72IA9dZgNsJTJAqS7_XMZRReyv7TFBnK64htLAU/edit?slide=id.p#slide=id.p)**
+#**MAI-DIRE-AI---[CIPHERVAULT ULTIMATE](https://docs.google.com/presentation/d/1evxM72IA9dZgNsJTJAqS7_XMZRReyv7TFBnK64htLAU/edit?slide=id.p#slide=id.p)**
 ## Progetto scolastico sullo sviluppo di un programma attraverso l'uso dell'intelligenza artificiale (in questo caso gemini).
 
 L'operato dell'IA ha portato alla nascita di un password manager non convenzionale che funziona attraverso diversi strumenti:
